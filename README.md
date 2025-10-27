@@ -1,4 +1,4 @@
-# movieDB-iOS
+# Nested Table View Demo - Movie Database App
 A movie database app which implements nested table view cells and search functionality.
 
 ## Sample Outputs
